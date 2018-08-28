@@ -1,0 +1,21 @@
+[submodule "SuperBMD"]
+	path = SuperBMD
+	url = https://github.com/Sage-of-Mirrors/SuperBMD.git
+[submodule "Collision Editor"]
+	path = Collision Editor
+	url = https://github.com/Sage-of-Mirrors/WindWakerCollisionEditor.git
+[submodule "Song Input Editor"]
+	path = Song Input Editor
+	url = https://github.com/Sage-of-Mirrors/WindWakerSongEditor.git
+[submodule "Text Editor"]
+	path = Text Editor
+	url = https://github.com/Sage-of-Mirrors/WindWakerTextEditor.git
+[submodule "J3D Model Viewer"]
+	path = J3D Model Viewer
+	url = https://github.com/LordNed/J3D-Model-Viewer.git
+[submodule "Winditor"]
+	path = Winditor
+	url = https://github.com/LordNed/Winditor.git
+[submodule "Map Select Editor"]
+	path = Map Select Editor
+	url = https://github.com/LordNed/WindWaker-DebugMapMenuEditor.git
