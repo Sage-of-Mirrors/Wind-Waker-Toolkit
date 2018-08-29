@@ -1,21 +1,21 @@
 [submodule "SuperBMD"]
 	path = SuperBMD
 	url = https://github.com/Sage-of-Mirrors/SuperBMD.git
-[submodule "Collision Editor"]
-	path = Collision_Editor
-	url = https://github.com/Sage-of-Mirrors/WindWakerCollisionEditor.git
-[submodule "Song Input Editor"]
-	path = Song_Input_Editor
-	url = https://github.com/Sage-of-Mirrors/WindWakerSongEditor.git
-[submodule "Text Editor"]
-	path = Text_Editor
-	url = https://github.com/Sage-of-Mirrors/WindWakerTextEditor.git
-[submodule "J3D Model Viewer"]
-	path = J3D_Model_Viewer
-	url = https://github.com/LordNed/J3D-Model-Viewer.git
 [submodule "Winditor"]
 	path = Winditor
 	url = https://github.com/LordNed/Winditor.git
-[submodule "Map Select Editor"]
-	path = Map_Select_Editor
+[submodule "J3DModelViewer"]
+	path = J3DModelViewer
+	url = https://github.com/LordNed/J3D-Model-Viewer.git
+[submodule "CollisionEditor"]
+	path = CollisionEditor
+	url = https://github.com/Sage-of-Mirrors/WindWakerCollisionEditor.git
+[submodule "TextEditor"]
+	path = TextEditor
+	url = https://github.com/Sage-of-Mirrors/WindWakerTextEditor.git
+[submodule "SongInputEditor"]
+	path = SongInputEditor
+	url = https://github.com/Sage-of-Mirrors/WindWakerSongEditor.git
+[submodule "MapSelectEditor"]
+	path = MapSelectEditor
 	url = https://github.com/LordNed/WindWaker-DebugMapMenuEditor.git
